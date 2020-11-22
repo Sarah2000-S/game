@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#01c5c4;
+}
+img{
+	background-color:#FFF134;
+}
+img:hover{
+    background-color: #f39233;
+      
+}
+button{
+font-size: 30px;
+background: #f39233 ;
+color: #fff;
+text-transform: uppercase;
+font-family: Segoe,"Segoe", 'Segoe UI';;
+letter-spacing: 2px;
+transition: all 0.5s;
+border: none;
+padding: 15px 16px;
+position: absolute;
+right: 20px;
+}
+button:hover {
+  background-color:#FF5557 ;
+}
